@@ -1,9 +1,0 @@
-﻿  Source.cpp
-D:\For the Academy\C++ с Гергана Раденкова\Homework for 10.01.2021\Homework for 10.01.2021\Source.cpp(127,33): warning C4305: '+=': truncation from 'double' to 'float'
-D:\For the Academy\C++ с Гергана Раденкова\Homework for 10.01.2021\Homework for 10.01.2021\Source.cpp(128,34): warning C4305: '+=': truncation from 'double' to 'float'
-D:\For the Academy\C++ с Гергана Раденкова\Homework for 10.01.2021\Homework for 10.01.2021\Source.cpp(140,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-D:\For the Academy\C++ с Гергана Раденкова\Homework for 10.01.2021\Homework for 10.01.2021\Source.cpp(141,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-D:\For the Academy\C++ с Гергана Раденкова\Homework for 10.01.2021\Homework for 10.01.2021\Source.cpp(143,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-D:\For the Academy\C++ с Гергана Раденкова\Homework for 10.01.2021\Homework for 10.01.2021\Source.cpp(153,15): warning C4305: '+=': truncation from 'double' to 'float'
-D:\For the Academy\C++ с Гергана Раденкова\Homework for 10.01.2021\Homework for 10.01.2021\Source.cpp(154,15): warning C4305: '+=': truncation from 'double' to 'float'
-D:\For the Academy\C++ с Гергана Раденкова\Homework for 10.01.2021\Homework for 10.01.2021\Source.cpp(4): fatal error C1075: '{': no matching token found
